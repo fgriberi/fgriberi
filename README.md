@@ -1,16 +1,11 @@
-### Hi there 👋
+# 👋🏼, hi I'm Franco 
 
-<!--
-**fgriberi/fgriberi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Fullstack Engineer @talos
+- 🏡 Rio Cuarto, Cordoba, Argentina
+- ⛰️ I'm a trekking enthusiast
+- ✨ I enjoy traveling **a lot**
+- 🧉 I prefer mate instead of coffe
+- 🚀 I really like to face new challenges
+- 🎨 I appreciate remote team culture.
+- 📖 I love reading technical books and blogs.
+- 🤟 Great team player
